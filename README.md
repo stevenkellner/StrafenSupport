@@ -47,21 +47,7 @@ class UIKitExampleController_MinimalCode: UIViewController {
 
 ## Table of Contents
 - [404 Page](https://stevenkellner.github.io/StrafenSupport/404) (SupportDocs Integrated File) ([edit](https://github.com/stevenkellner/StrafenSupport/edit/DataSource/StrafenSupport/404.md))
-- [Apple smoothie](https://stevenkellner.github.io/StrafenSupport/Sample-Smoothies/Apple) (smoothies) ([edit](https://github.com/stevenkellner/StrafenSupport/edit/DataSource/Sample-Smoothies/Apple.md))
-- [Blueberry smoothie](https://stevenkellner.github.io/StrafenSupport/Sample-Smoothies/Blueberry) (smoothies) ([edit](https://github.com/stevenkellner/StrafenSupport/edit/DataSource/Sample-Smoothies/Blueberry.md))
-- [Buy blue boba](https://stevenkellner.github.io/StrafenSupport/Sample-Boba/BuyBlueBoba) (boba) ([edit](https://github.com/stevenkellner/StrafenSupport/edit/DataSource/Sample-Boba/BuyBlueBoba.md))
-- [Buy cream boba](https://stevenkellner.github.io/StrafenSupport/Sample-Boba/BuyCreamBoba) (boba) ([edit](https://github.com/stevenkellner/StrafenSupport/edit/DataSource/Sample-Boba/BuyCreamBoba.md))
-- [Buy orange boba](https://stevenkellner.github.io/StrafenSupport/Sample-Boba/BuyOrangeBoba) (boba) ([edit](https://github.com/stevenkellner/StrafenSupport/edit/DataSource/Sample-Boba/BuyOrangeBoba.md))
-- [How to cook pizza](https://stevenkellner.github.io/StrafenSupport/Sample-FastFood/HowToCookPizza) (fastFood) ([edit](https://github.com/stevenkellner/StrafenSupport/edit/DataSource/Sample-FastFood/HowToCookPizza.md))
-- [How to eat burritos](https://stevenkellner.github.io/StrafenSupport/Sample-FastFood/HowToEatBurritos) (fastFood) ([edit](https://github.com/stevenkellner/StrafenSupport/edit/DataSource/Sample-FastFood/HowToEatBurritos.md))
-- [How to eat grilled cheese](https://stevenkellner.github.io/StrafenSupport/Sample-FastFood/HowToEatGrilledCheese) (fastFood) ([edit](https://github.com/stevenkellner/StrafenSupport/edit/DataSource/Sample-FastFood/HowToEatGrilledCheese.md))
-- [How to eat nachos](https://stevenkellner.github.io/StrafenSupport/Sample-FastFood/HowToEatNachos) (fastFood) ([edit](https://github.com/stevenkellner/StrafenSupport/edit/DataSource/Sample-FastFood/HowToEatNachos.md))
-- [How to eat tacos](https://stevenkellner.github.io/StrafenSupport/Sample-FastFood/HowToEatTacos) (fastFood) ([edit](https://github.com/stevenkellner/StrafenSupport/edit/DataSource/Sample-FastFood/HowToEatTacos.md))
-- [How to make spaghetti](https://stevenkellner.github.io/StrafenSupport/Sample-FastFood/HowToMakeSpaghetti) (fastFood) ([edit](https://github.com/stevenkellner/StrafenSupport/edit/DataSource/Sample-FastFood/HowToMakeSpaghetti.md))
-- [How to prepare ramen](https://stevenkellner.github.io/StrafenSupport/Sample-FastFood/HowToPrepareRamen) (fastFood) ([edit](https://github.com/stevenkellner/StrafenSupport/edit/DataSource/Sample-FastFood/HowToPrepareRamen.md))
-- [Peach smoothie](https://stevenkellner.github.io/StrafenSupport/Sample-Smoothies/Peach) (smoothies) ([edit](https://github.com/stevenkellner/StrafenSupport/edit/DataSource/Sample-Smoothies/Peach.md))
-- [Plum smoothie](https://stevenkellner.github.io/StrafenSupport/Sample-Smoothies/Plum) (smoothies) ([edit](https://github.com/stevenkellner/StrafenSupport/edit/DataSource/Sample-Smoothies/Plum.md))
-- [Red berry smoothie](https://stevenkellner.github.io/StrafenSupport/Sample-Smoothies/RedBerries) (smoothies) ([edit](https://github.com/stevenkellner/StrafenSupport/edit/DataSource/Sample-Smoothies/RedBerries.md))
+- [Allgemeines](https://stevenkellner.github.io/StrafenSupport/DocFiles/General) (general) ([edit](https://github.com/stevenkellner/StrafenSupport/edit/DataSource/DocFiles/General.md))
 
 
 ## Notes
