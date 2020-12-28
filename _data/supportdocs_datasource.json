@@ -3,21 +3,21 @@
         "title": "Vorlage Hinzuf\u00fcgen",
         "url": "https://stevenkellner.github.io/StrafenSupport/ReasonActions/AddReason",
         "tags": [
-            "reason"
+            "reason1"
         ]
     },
     {
         "title": "Vorlage L\u00f6schen",
         "url": "https://stevenkellner.github.io/StrafenSupport/ReasonActions/DeleteReason",
         "tags": [
-            "reason"
+            "reason3"
         ]
     },
     {
         "title": "Abmelden Anderer Erzwingen",
         "url": "https://stevenkellner.github.io/StrafenSupport/Settings/ForceSignOutSettings",
         "tags": [
-            "settings"
+            "settings3"
         ]
     },
     {
@@ -38,7 +38,7 @@
         "title": "Verzugszinsen",
         "url": "https://stevenkellner.github.io/StrafenSupport/Settings/LatePaymentInterestSettings",
         "tags": [
-            "settings"
+            "settings1"
         ]
     },
     {
@@ -52,14 +52,14 @@
         "title": "Strafen Teilen",
         "url": "https://stevenkellner.github.io/StrafenSupport/Settings/ShareFinesSettings",
         "tags": [
-            "settings"
+            "settings2"
         ]
     },
     {
         "title": "Vorlage \u00c4ndern",
         "url": "https://stevenkellner.github.io/StrafenSupport/ReasonActions/UpdateReason",
         "tags": [
-            "reason"
+            "reason2"
         ]
     }
 ]
