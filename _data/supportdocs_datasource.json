@@ -1,9 +1,23 @@
 [
     {
+        "title": "Person Hinzuf\u00fcgen",
+        "url": "https://stevenkellner.github.io/StrafenSupport/PersonActions/AddPerson",
+        "tags": [
+            "person1"
+        ]
+    },
+    {
         "title": "Vorlage Hinzuf\u00fcgen",
         "url": "https://stevenkellner.github.io/StrafenSupport/ReasonActions/AddReason",
         "tags": [
             "reason1"
+        ]
+    },
+    {
+        "title": "Person L\u00f6schen",
+        "url": "https://stevenkellner.github.io/StrafenSupport/PersonActions/DeletePerson",
+        "tags": [
+            "person3"
         ]
     },
     {
@@ -53,6 +67,13 @@
         "url": "https://stevenkellner.github.io/StrafenSupport/Settings/ShareFinesSettings",
         "tags": [
             "settings2"
+        ]
+    },
+    {
+        "title": "Person \u00c4ndern",
+        "url": "https://stevenkellner.github.io/StrafenSupport/PersonActions/UpdatePerson",
+        "tags": [
+            "person2"
         ]
     },
     {
