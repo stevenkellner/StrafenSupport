@@ -5,7 +5,7 @@ tags: settings
 
 # Abmelden Anderer Erzwingen
 
-<img src="../../Images/ForceSignOutSettings.png" width="33%">
+<img src="../Images/ForceSignOutSettings.png" width="33%">
 
 ## <b style="color: #CC2A36;">Nur als Kassier</b>
 

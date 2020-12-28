@@ -5,7 +5,7 @@ tags: settings
 
 # Strafen Teilen
 
-<img src="../../Images/ShareFinesSettings.png" width="100%">
+<img src="../Images/ShareFinesSettings.png" width="100%">
 
 ## <b style="color: #CC2A36;">Nur als Kassier</b>
 
