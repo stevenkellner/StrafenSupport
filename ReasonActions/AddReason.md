@@ -1,11 +1,11 @@
 ---
 title: Vorlage Hinzufügen
-tags: reason
+tags: reason1
 ---
 
 # Vorlage Hinzufügen
 
-<img src="../Images/AddReason.png" width="33%">
+<img src="../Images/AddReason.png" width="100%">
 
 ## <b style="color: #CC2A36;">Nur als Kassier</b>
 

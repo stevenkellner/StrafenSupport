@@ -5,7 +5,8 @@ tags: settings
 
 # Allgemeine Einstellungen
 
-<img src="../Images/GeneralSettings.png" width="67%">
+<img src="../Images/GeneralSettings1.png" width="100%">
+<img src="../Images/GeneralSettings2.png" width="100%">
 
 ## Deine Vereinskennung
 Du kannst die Kennung deines Vereins anderen Spieler deines Teams geben, damit sie auch eurem Verein beitreten können.

@@ -1,11 +1,11 @@
 ---
 title: Verzugszinsen
-tags: settings
+tags: settings1
 ---
 
 # Verzugzinsen
 
-<img src="../Images/LatePaymentInterestSettings.png" width="33%">
+<img src="../Images/LatePaymentInterestSettings.png" width="100%">
 
 ## <b style="color: #CC2A36;">Nur als Kassier</b>
 

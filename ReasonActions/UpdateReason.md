@@ -1,11 +1,11 @@
 ---
 title: Vorlage Ändern
-tags: reason
+tags: reason2
 ---
 
 # Vorlage Ändern
 
-<img src="../Images/ReasonEditor.png" width="33%">
+<img src="../Images/ReasonEditor.png" width="100%">
 
 ## <b style="color: #CC2A36;">Nur als Kassier</b>
 

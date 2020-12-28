@@ -1,11 +1,13 @@
 ---
 title: Strafen Teilen
-tags: settings
+tags: settings2
 ---
 
 # Strafen Teilen
 
-<img src="../Images/ShareFinesSettings.png" width="100%">
+<img src="../Images/ShareFinesSettings1.png" width="100%">
+<img src="../Images/ShareFinesSettings2.png" width="100%">
+<img src="../Images/ShareFinesSettings3.png" width="100%">
 
 ## <b style="color: #CC2A36;">Nur als Kassier</b>
 
