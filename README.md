@@ -47,7 +47,15 @@ class UIKitExampleController_MinimalCode: UIViewController {
 
 ## Table of Contents
 - [404 Page](https://stevenkellner.github.io/StrafenSupport/404) (SupportDocs Integrated File) ([edit](https://github.com/stevenkellner/StrafenSupport/edit/DataSource/StrafenSupport/404.md))
-- [Allgemeines](https://stevenkellner.github.io/StrafenSupport/DocFiles/General) (general) ([edit](https://github.com/stevenkellner/StrafenSupport/edit/DataSource/DocFiles/General.md))
+- [Abmelden Anderer Erzwingen](https://stevenkellner.github.io/StrafenSupport/Settings/ForceSignOutSettings) (settings) ([edit](https://github.com/stevenkellner/StrafenSupport/edit/DataSource/Settings/ForceSignOutSettings.md))
+- [Allgemeine Einstellungen](https://stevenkellner.github.io/StrafenSupport/Settings/GeneralSettings) (settings) ([edit](https://github.com/stevenkellner/StrafenSupport/edit/DataSource/Settings/GeneralSettings.md))
+- [Allgemeines](https://stevenkellner.github.io/StrafenSupport/General) (general) ([edit](https://github.com/stevenkellner/StrafenSupport/edit/DataSource/StrafenSupport/General.md))
+- [Anmelden / Registrieren](https://stevenkellner.github.io/StrafenSupport/LogIn-SignIn) (logIn-signIn) ([edit](https://github.com/stevenkellner/StrafenSupport/edit/DataSource/StrafenSupport/LogIn-SignIn.md))
+- [Strafen Teilen](https://stevenkellner.github.io/StrafenSupport/Settings/ShareFinesSettings) (settings) ([edit](https://github.com/stevenkellner/StrafenSupport/edit/DataSource/Settings/ShareFinesSettings.md))
+- [Verzugszinsen](https://stevenkellner.github.io/StrafenSupport/Settings/LatePaymentInterestSettings) (settings) ([edit](https://github.com/stevenkellner/StrafenSupport/edit/DataSource/Settings/LatePaymentInterestSettings.md))
+- [Vorlage Hinzufügen](https://stevenkellner.github.io/StrafenSupport/ReasonActions/AddReason) (reason) ([edit](https://github.com/stevenkellner/StrafenSupport/edit/DataSource/ReasonActions/AddReason.md))
+- [Vorlage Löschen](https://stevenkellner.github.io/StrafenSupport/ReasonActions/DeleteReason) (reason) ([edit](https://github.com/stevenkellner/StrafenSupport/edit/DataSource/ReasonActions/DeleteReason.md))
+- [Vorlage Ändern](https://stevenkellner.github.io/StrafenSupport/ReasonActions/UpdateReason) (reason) ([edit](https://github.com/stevenkellner/StrafenSupport/edit/DataSource/ReasonActions/UpdateReason.md))
 
 
 ## Notes

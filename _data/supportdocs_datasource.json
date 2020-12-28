@@ -1,9 +1,65 @@
 [
     {
+        "title": "Vorlage Hinzuf\u00fcgen",
+        "url": "https://stevenkellner.github.io/StrafenSupport/ReasonActions/AddReason",
+        "tags": [
+            "reason"
+        ]
+    },
+    {
+        "title": "Vorlage L\u00f6schen",
+        "url": "https://stevenkellner.github.io/StrafenSupport/ReasonActions/DeleteReason",
+        "tags": [
+            "reason"
+        ]
+    },
+    {
+        "title": "Abmelden Anderer Erzwingen",
+        "url": "https://stevenkellner.github.io/StrafenSupport/Settings/ForceSignOutSettings",
+        "tags": [
+            "settings"
+        ]
+    },
+    {
         "title": "Allgemeines",
-        "url": "https://stevenkellner.github.io/StrafenSupport/DocFiles/General",
+        "url": "https://stevenkellner.github.io/StrafenSupport/General",
         "tags": [
             "general"
+        ]
+    },
+    {
+        "title": "Allgemeine Einstellungen",
+        "url": "https://stevenkellner.github.io/StrafenSupport/Settings/GeneralSettings",
+        "tags": [
+            "settings"
+        ]
+    },
+    {
+        "title": "Verzugszinsen",
+        "url": "https://stevenkellner.github.io/StrafenSupport/Settings/LatePaymentInterestSettings",
+        "tags": [
+            "settings"
+        ]
+    },
+    {
+        "title": "Anmelden / Registrieren",
+        "url": "https://stevenkellner.github.io/StrafenSupport/LogIn-SignIn",
+        "tags": [
+            "logIn-signIn"
+        ]
+    },
+    {
+        "title": "Strafen Teilen",
+        "url": "https://stevenkellner.github.io/StrafenSupport/Settings/ShareFinesSettings",
+        "tags": [
+            "settings"
+        ]
+    },
+    {
+        "title": "Vorlage \u00c4ndern",
+        "url": "https://stevenkellner.github.io/StrafenSupport/ReasonActions/UpdateReason",
+        "tags": [
+            "reason"
         ]
     }
 ]
