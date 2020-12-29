@@ -1,5 +1,12 @@
 [
     {
+        "title": "Strafe Hinzuf\u00fcgen",
+        "url": "https://stevenkellner.github.io/StrafenSupport/FineActions/AddFine",
+        "tags": [
+            "fine1"
+        ]
+    },
+    {
         "title": "Person Hinzuf\u00fcgen",
         "url": "https://stevenkellner.github.io/StrafenSupport/PersonActions/AddPerson",
         "tags": [
@@ -11,6 +18,13 @@
         "url": "https://stevenkellner.github.io/StrafenSupport/ReasonActions/AddReason",
         "tags": [
             "reason1"
+        ]
+    },
+    {
+        "title": "Strafe L\u00f6schen",
+        "url": "https://stevenkellner.github.io/StrafenSupport/FineActions/DeleteFine",
+        "tags": [
+            "fine3"
         ]
     },
     {
@@ -67,6 +81,13 @@
         "url": "https://stevenkellner.github.io/StrafenSupport/Settings/ShareFinesSettings",
         "tags": [
             "settings2"
+        ]
+    },
+    {
+        "title": "Strafe \u00c4ndern",
+        "url": "https://stevenkellner.github.io/StrafenSupport/FineActions/UpdateFine",
+        "tags": [
+            "fine2"
         ]
     },
     {
